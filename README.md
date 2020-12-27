@@ -13,7 +13,8 @@
 1. Just clone the project by clicking the Green button " Clone / Download " 
 2. Open the project in V.S Code
 
-Note: 1 . For this this project firstly ,you need to have the latest version of Node.Js installed  . You can refer this link [👉 Here 👈](https://nodejs.org/en/download/)
+Note: 1 . For this this project firstly ,you need to have the latest version of Node.Js installed  .
+          You can refer this link [👉 Here 👈](https://nodejs.org/en/download/)
 
        2 . Secondly , you need to have the latest version of npm(node package manager of Node.Js) installed . 
              You can refer this link [👉 Here 👈](https://www.npmjs.com/get-npm)
