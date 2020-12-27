@@ -1,6 +1,6 @@
 # Image-Uploader-with-Node.Js 🤩
 
-### Hey!! excited CodXCrypters I know that you must have scene various image uploaders on various sites on Internet
+### Hey!! excited CodXCrypters 😍I know that you must have scene various image uploaders on various sites on Internet
 
 #### You could have used them to upload ur images 
 
@@ -30,4 +30,4 @@ NOTE :
           
 4. After all these you can just go to " localhost:3001/upload " to see your project up and running.
 
-Note : This project is further more to be developed , so feel free to create issues and send PR's if you want to suggest something interesting
+Note : This project is further more to be developed , so feel free to create issues and send PR's if you want to suggest something interesting 🙌
