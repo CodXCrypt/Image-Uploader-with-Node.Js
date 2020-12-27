@@ -20,7 +20,6 @@ NOTE :
 2 . Secondly , you need to have the latest version of npm(node package manager of Node.Js) installed . 
           You can refer this link [👉 Here 👈](https://www.npmjs.com/get-npm)
 
-
 3. After installing these 2 , now you can easily install the other packages 
 
           # First, install the general node modules by doing  " npm install "
@@ -28,3 +27,7 @@ NOTE :
           # Third, install "multer" module using " npm install multer "
           ## We can also install these packages in one go " npm install express multer"
           # Fourth, install Nodemon , it will help you keep your server up and running " npm install nodemon "
+          
+4. After all these you can just go to " localhost:3001/upload " to see your project up and running.
+
+Note : This project is further more to be developed , so feel free to create issues and send PR's if you want to suggest something interesting
