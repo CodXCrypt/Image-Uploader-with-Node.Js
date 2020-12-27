@@ -9,4 +9,8 @@
 #### I also have used a package to accomplish this
 
 ## If you are really interested to know how it works :
-Just clone
+
+1. Just clone the project by clicking the Green button " Clone / Download " 
+2. Open the project in V.S Code
+
+Note: For this this project you need to have the latest version of Node.Js installed
