@@ -19,3 +19,11 @@ NOTE :
           You can refer this link [👉 Here 👈](https://nodejs.org/en/download/)                                                     
 2 . Secondly , you need to have the latest version of npm(node package manager of Node.Js) installed . 
           You can refer this link [👉 Here 👈](https://www.npmjs.com/get-npm)
+
+
+3. After installing these 2 , now you can easily install the other packages 
+          # First, install the general node modules by doing  " npm install "
+          # Secondly, install "express" module using " npm install express "
+          # Third, install "multer" module using " npm install multer "
+          ## We can also install these packages in one go " npm install express multer"
+          # Fourth, install Nodemon , it will help you keep your server up and running " npm install nodemon "
